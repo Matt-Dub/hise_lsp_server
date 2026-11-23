@@ -1,6 +1,6 @@
 {
   "hisescript": {
-    "command": "tools/hise_lsp_server/bin/windows/hise-lsp.exe",
+    "command": "tools/hise_lsp_server/bin/linux/hise-lsp",
     "args": [],
     "extensionToLanguage": {
       ".js": "hisescript"
